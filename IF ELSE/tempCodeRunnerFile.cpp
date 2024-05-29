@@ -1,0 +1,2 @@
+ (derajat) = ";
+    cin >> a;
